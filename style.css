@@ -1,0 +1,39 @@
+html{
+    font-size: 6.9vw;
+}
+
+section {
+    display: grid;
+    width: 100bw;
+}
+
+div {
+    width: 50vw;
+    margin: 0 auto;
+    background-color: darkgray;
+}
+
+h1,h2 {
+    color: aliceblue;
+    text-align: center;
+}
+
+h1 {
+    font-size: 1.5rem;
+}
+
+h2 {
+    font-size: 0.8rem;
+}
+
+.mia:hover {
+    background-color: aqua;
+}
+
+.allis:hover {
+    background-color: aquamarine;
+}
+
+body{
+    background-color: black;
+}
